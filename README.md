@@ -37,7 +37,6 @@ The dashboard was developed using Power BI Desktop and showcases insights from *
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
 - **Excel/CSV** for data preparation
-- **Power Query Editor**
 
 ## 📈 Insights Uncovered
 
